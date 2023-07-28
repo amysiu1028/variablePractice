@@ -9,3 +9,9 @@ console.log(age);
 
 var yearBorn = '1994'
 console.log(yearBorn);
+
+var hwSubmitted = 'false'
+console.log(hwSubmitted);
+
+var depositPaid = 'true'
+console.log(depositPaid);
